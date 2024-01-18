@@ -1,7 +1,7 @@
 
 
 // 服务器
-  export const BASE_URL ="http://124.71.180.8:19001/";
+  export const BASE_URL ="https://facility2-89788-7-1307807477.sh.run.tcloudbase.com";
   
 //  本地
 
